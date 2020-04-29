@@ -1,0 +1,35 @@
+.Layout{
+    margin: 0px;
+    padding: 0px;
+}
+.NavWrapper{
+    display: table;
+    height: 50px;
+    width: 100%;
+}
+img{
+    border-radius: 25px;
+}
+.ProfileWrap{
+    display: table-cell;
+    vertical-align: middle;
+    width: 50px;
+}
+.EmptyBar{
+    display: table-cell;
+}
+
+h5{
+    display: table-cell;
+    margin: 0px;
+    vertical-align: middle;
+    padding: 0px;
+    width: 25%;
+}
+.LogoutWrap{
+    display: table-cell;
+    vertical-align: middle;
+    margin: 0px;
+    width: 25%;
+    padding: 0px;
+}

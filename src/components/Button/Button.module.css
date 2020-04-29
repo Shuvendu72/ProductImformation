@@ -1,0 +1,11 @@
+.CustomButton{
+    width: 180px;
+    color: white;
+    height: 30px;
+    border-radius: 10px;
+    border: none;
+    background-color: rgb(0, 152, 219);
+}
+.CustomButton:focus{
+    outline: none;
+}

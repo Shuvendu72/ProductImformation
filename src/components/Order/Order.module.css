@@ -1,0 +1,25 @@
+.Order {
+    padding: 16px;
+    text-align: center;
+    border: 1px solid #eee;
+    box-shadow: 0 2px 3px #ccc;
+    margin: 10px;
+    box-sizing: border-box;
+}
+.OrderWrapper{
+    user-select: none;
+}
+.Order:hover,
+.Order:active {
+    background-color: #C0DDF5;
+}
+
+button{
+    cursor: pointer;
+}
+.InputWrapper{
+    margin: 10px 0px;
+}
+input{
+    height: 30px;
+}
